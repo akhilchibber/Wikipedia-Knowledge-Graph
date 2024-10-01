@@ -1,6 +1,6 @@
 # Building a Wikipedia based Knowledge Graph using Python and Neo4j
 <p align="center">
-  <img src="https://github.com/akhilchibber/Wikipedia-Knowledge-Graph/blob/main/WIKIPEDIA.jpg?raw=true" alt="earthml Logo">
+  <img src="https://github.com/akhilchibber/Wikipedia-Knowledge-Graph/blob/main/Wikipedia.png?raw=true" alt="earthml Logo">
 </p>
 
 ## Overview
